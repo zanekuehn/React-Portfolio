@@ -1,0 +1,10 @@
+.aboutme{
+  margin-left:auto;
+  margin-right:auto;
+  display: flex;
+  flex-direction: column;
+  line-height: 25px;
+  margin-top:15px;
+  padding:45px;
+  width:50%;
+}

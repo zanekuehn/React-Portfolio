@@ -1,0 +1,27 @@
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  border-bottom:3px solid black;
+  padding-bottom:15px;
+  margin-bottom:15px;
+
+  
+}
+
+.nav-list{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;;
+  list-style: none;
+  widows: 100%;
+  
+}
+
+
+
+.list-container{
+  height:100%
+}
